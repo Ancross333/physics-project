@@ -1,0 +1,56 @@
+.calcGrid{
+    background-color: rgb(233, 232, 232);
+    display: grid;
+    justify-content: center;
+}
+
+.calc1{
+    background-color: darkblue;
+    min-height: 400px;
+    min-width: 60rem;
+}
+
+.calcHead{
+    font-size: 68px;
+    color: white;
+    text-align: center;
+}
+
+.numberInput{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-bottom: 50px;
+}
+
+.result{
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    margin-bottom: 100px;
+}
+
+.calcButton{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    color: darkblue;
+    background-color: white;
+    border: none;
+    border-radius: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    cursor: pointer;
+}
+
+.calcButton:hover{
+    background-color: rgb(233, 232, 232);
+}
+
+.marg{
+    width: 100%;
+    height: 200px;
+    background-color: white;
+}

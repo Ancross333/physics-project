@@ -1,0 +1,66 @@
+header{
+    color: darkblue;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+a{
+    text-decoration: none;
+    color: darkgreen;
+}
+
+a:hover{
+    color: darkcyan;
+}
+article{
+    font-size: 24px;
+    left: 50%;
+    transform: translateX(-50%);
+    position: relative;
+    max-width: 600px;
+}
+
+.titleWrap{
+    background-color: rgb(233, 230, 230);
+    min-height: 400px;
+    width: 100%;
+    margin-bottom: 200px;
+}
+
+.formulaBackground{
+    background-color: darkblue;
+    min-height: 500px;
+    width: 100%;
+}
+
+.calcBackground{
+    background-color: rgb(233, 230, 230);
+    min-height: 500px;
+    width: 100%;
+}
+
+.formulaHeader{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+
+.formula{
+    margin-left: 10%;
+    font-size: 30px;
+    color: white;
+}
+
+.calculatorTitle{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    
+}
+
+
+
+.calcLink:hover{
+    color: rgb(216, 216, 216);
+}

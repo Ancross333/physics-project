@@ -1,0 +1,35 @@
+.Link{
+  padding-top: 6px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.Link:hover{
+  background-color: rgb(0, 0, 182) !important;
+  color: white !important;
+}
+
+.linkContainer{
+  min-height: 0px;
+  position: relative;
+  top:  30px;
+  width: 100%;
+}
+
+.linkGrid{
+  display: grid;
+  justify-content: center;
+}
+
+.linkContainer .current{
+  background-color: darkblue;
+}
+
+.active-link{
+  background-color: red;
+}
