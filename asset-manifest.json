@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/physics-project/static/css/main.c0889299.css",
+    "main.js": "/physics-project/static/js/main.32860ac9.js",
+    "index.html": "/physics-project/index.html",
+    "main.c0889299.css.map": "/physics-project/static/css/main.c0889299.css.map",
+    "main.32860ac9.js.map": "/physics-project/static/js/main.32860ac9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0889299.css",
+    "static/js/main.32860ac9.js"
+  ]
+}
